@@ -19,5 +19,7 @@ body {
 
 #cabezera{
     color :burlywood;
-
+    text-align: center;
+    padding: 2px;
+    background-color: blanchedalmond;
 }
