@@ -19,11 +19,7 @@ body {
 
 #cabezera{
     color :burlywood;
-
-}
-
-#footer{
-    background-color: blueviolet;
-    color: aquamarine;
     text-align: center;
+    padding: 2px;
+    background-color: blanchedalmond;
 }
