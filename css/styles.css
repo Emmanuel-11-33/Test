@@ -21,3 +21,9 @@ body {
     color :burlywood;
 
 }
+
+#footer{
+    background-color: blueviolet;
+    color: aquamarine;
+    text-align: center;
+}
